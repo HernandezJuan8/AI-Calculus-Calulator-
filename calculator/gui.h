@@ -2,7 +2,8 @@
 #define HEADER_GUI
 
 #include <iostream>
-#include <gtk/gtk.h>
+
+
 
 static void print_hello();
 
